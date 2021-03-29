@@ -13,7 +13,7 @@ using namespace std;
         cout <<" Dog Talks...wuf wuf wuf wuf wuf wuf wuf" <<endl;    
     }    
 };    
-class Cat : Animal  animal  
+class Cat : Animal 
 {    
     public:  
      void talk()    
