@@ -18,7 +18,7 @@ class Cat : Animal
     public:  
      void talk()    
     {    
-        cout <<" Cat Talks...Meaoun ...Meaoun..Meaoun" <<endl;    
+        cout <<" Cat Talks...Meaoun ...Meaoun.Meaoun ...Meaoun..Meaoun.Meaoun" <<endl;    
     }    
 };    
 class Horse : Animal    
