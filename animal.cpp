@@ -10,7 +10,7 @@ using namespace std;
     public:  
      void talk()    
     {    
-        cout <<" Dog Talks...wuf wuf wuf" <<endl;    
+        cout <<" Dog Talks...wuf wuf wuf wuf wuf wuf wuf" <<endl;    
     }    
 };    
 class Cat : Animal    
